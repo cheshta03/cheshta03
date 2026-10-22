@@ -28,6 +28,17 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cheshta03&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" height="200" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cheshta03&theme=radical" height="200" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+
 ## 💼 Projects
 
 - 🔹 MegaMart(https://github.com/cheshta03/Ecommercial-Website)  
