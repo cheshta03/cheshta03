@@ -67,7 +67,7 @@
   <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="80" alt="C++" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="80" alt="Java" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="80" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="80" alt="TypeScript" />
+ 
 </p>
 
 ---
