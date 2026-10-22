@@ -28,6 +28,12 @@
 
 ---
 
+## 💼 Projects
+
+- 🔹 MegaMart(https://github.com/cheshta03/Ecommercial-Website)  
+- 🔹 Personal Portfolio(https://github.com/cheshta03/Portfolio-Website)  
+
+---
 
 
 ## 📚 Education
