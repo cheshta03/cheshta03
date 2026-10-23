@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Cheshta Patidar 👋</h1>
-<p align="center">Graduate Student of <strong>Medicaps University, Indore</strong></p>
+<p align="center"><i>Graduate Student of <strong>Medicaps University, Indore</i></strong></p>
 
 <p align="center">
   🚀 Full Stack Developer specializing in MERN Stack
