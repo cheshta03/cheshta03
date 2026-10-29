@@ -4,7 +4,7 @@
 <p align="center">
   🚀 Full Stack Developer specializing in MERN Stack
   <br>🧠 Passionate about solving real world problems and interacting with people  
-  <br>💼 Skilled in Java, Python and DSA 
+  <br>💼 Skilled in Java, Python and DSA Enthusiast 
 </p>
 
 ---
@@ -42,7 +42,8 @@
 ## 💼 Projects
 
 - 🔹 MegaMart(https://github.com/cheshta03/Ecommercial-Website)  
-- 🔹 Personal Portfolio(https://github.com/cheshta03/Portfolio-Website)  
+- 🔹 Portfolio(https://github.com/cheshta03/Portfolio-Website)
+- 🔹 Bookhaven(https://github.com/cheshta03/Bookhaven)
 
 ---
 
